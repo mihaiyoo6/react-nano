@@ -1,0 +1,3 @@
+[submodule "my-reads"]
+	path = my-reads
+	url = https://github.com/mihaiyoo6/my-reads.git
