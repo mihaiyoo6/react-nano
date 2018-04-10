@@ -5,6 +5,9 @@
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-loading": "1.0.4",
+    "react-modal": "3.3.2",
+    "react-redux": "5.0.7",
     "react-scripts": "1.1.1",
     "redux": "3.7.2"
   },
