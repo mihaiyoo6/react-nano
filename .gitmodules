@@ -1,3 +1,6 @@
 [submodule "my-reads"]
 	path = my-reads
 	url = https://github.com/mihaiyoo6/my-reads.git
+[submodule "readable"]
+	path = reactnd-project-readable-starter
+	url = https://github.com/mihaiyoo6/reactnd-project-readable-starter.git
